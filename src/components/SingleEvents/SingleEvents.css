@@ -1,0 +1,28 @@
+
+.img{
+    width: 194px;
+    height: 173px;
+}
+.title{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #0B0B0B;
+    margin-left: 10px;
+}
+.title span{
+    font-size: 18px;
+    font-weight: 500;
+}
+button{
+    position: absolute;
+width: 131px;
+height: 48px;
+bottom: 5%;
+right: 10%;
+
+background: #E3E3E3;
+border-radius: 5px;
+}

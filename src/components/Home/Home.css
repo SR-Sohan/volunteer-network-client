@@ -1,0 +1,55 @@
+.home-area{
+    background-image: url('../../images/bg.png');
+    height: 474px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    z-index: 1;
+}
+.home-area::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    opacity: .7;
+    z-index: -1;
+}
+.banner-area{
+    margin-top: 60px;
+}
+.banner-area h1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+text-transform: uppercase;
+color: #000000;
+}
+.form-input{
+    margin-top: 20px;
+    position: relative;
+}
+.form-input input{
+ width: 470px !important;
+height: 50px;
+background: #FBFBFB;
+border: 1px solid #D6D6D6;
+box-sizing: border-box;
+border-radius: 8px;
+
+}
+.banner-area button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 118px;
+    height: 50px;
+    background: #3F90FC;
+    border-radius: 0px 8px 8px 0px;
+}

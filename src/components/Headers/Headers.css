@@ -1,0 +1,39 @@
+
+.header-area{
+    padding-top: 10px;
+}
+.navbar .navbar-brand img {
+    width: 203px;
+    height: 60px;
+}
+.menu-item a,
+.user-name p{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+color: #0B0B0B;
+margin: 0 20px;
+}
+.reg-ad-style{
+    width: 153px;
+    height: 50px;
+    left: 987px;
+    top: 49px;
+    background: #3F90FC;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.reg-ad-style:hover a{
+    text-decoration: none;
+}
+.admin{
+    background: #434141;
+}

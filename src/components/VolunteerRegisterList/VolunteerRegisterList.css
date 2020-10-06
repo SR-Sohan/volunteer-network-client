@@ -1,0 +1,22 @@
+.volunteer-list{
+    background:#F4F7FC;
+}
+.header-img{
+    width: 202.81px;
+    height: 60px;
+    margin-right: 40px;
+}
+.volunteer-request {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+.volunteer-request,
+.add-event {
+    cursor: pointer;
+}
+.active{
+    color: aqua;
+}
