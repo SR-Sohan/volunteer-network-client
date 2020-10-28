@@ -1,19 +1,21 @@
 
-<h1>Creative Agency Review</h1>
+<h1>Volunteer Network Review</h1>
 
 <h2>Features</h2>
 
 <p>Fully responsive site, seo friendly</p>
 
 <h2>Users Features</h2>
-<p>User can order service, set a time limit, set a price and can upload an image as a sample.
-User can post reviews.
-User will be able to see their work progress through the status.</p>
+<p>
+ If the user wants, he can join any volunteer
+ If the user wants, he can leave out any volunteer
+ Users can join any day
+</p>
 
 
 <h2>Admin Features</h2>
-<p>An admin can add services and make more admins.
-Admin will be able to change the status of orders.</p>
+<p>An admin can add volunteer services
+Admin can cancel any volunteer</p>
 
 <h2>Technologies Used</h2>
 
